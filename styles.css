@@ -9,34 +9,35 @@
 #img2 {
     width: 20%;
     position: absolute;
-    right: 40px;
-    top: 300px;
+    right: 987px;
+    top: 430px;
 }
 
 #img3 {
     width: 20%;
     position: absolute;
-    right: 60px;
-    top: 400px;
+    right: 550px;
+    top: 470px;
 }
 
 #img4 {
-    width: 20%;
+    width: 15%;
     position: absolute;
     right: 500px;
-    top: 200px;
+    top: 150px;
 }
 
 #img5 {
-    width: 20%;
+    width: 19%;
     position: absolute;
-    right: 20px;
-    top: 200px;
+    right: 100px;
+    top: 500px;
+    z-index: 1;
 }
 
 #img6 {
-    width: 20%;
+    width: 11%;
     position: absolute;
-    right: 1000px;
+    right: 870px;
     top: 200px;
 }
